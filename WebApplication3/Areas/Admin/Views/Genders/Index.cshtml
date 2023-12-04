@@ -1,0 +1,30 @@
+﻿@model List<Gender>
+
+<div class="card shadow border-0 mt-4">
+    <div class="card-header bg-gradient ml-0 py-3" style="background-color: #6f1edc;">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">Gender List</h2>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="card-body p-4">
+    <div class="row pb-3">
+        <div class="col-6" div>
+
+            <table class="table table-bordered table-striped">
+                <tbody>
+                    @foreach (var obj in Model.OrderBy(i => i.Name))
+                    {
+                        <tr>
+                            <td>
+                                @obj.Name
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div> 

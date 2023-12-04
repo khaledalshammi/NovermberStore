@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Product>
+
+<div class="row pb-3">
+    @foreach (var product in Model)
+    {
+        <div class="col-lg-3 col-sm-6 mb-3">
+            <div class="card border-0 p-3 shadow border-top border-5 rounded">
+                @if (product.Images != null && product.Images.Any())
+                {
+                    <img src="@product.Images" style="height: 200px;" class="card-img-top rounded" alt="@product.Type Image" />
+                }
+                else
+                {
+                    <img src="https://placehold.co/500x600.png" style="height: 185px;" class="card-img-top rounded" alt="Placeholder Image" />
+                }
+                <div class="card-body pb-0">
+                    <div class="pl-1">
+                        <h5 class="card-title text-dark text-uppercase text-center">@product.Type</h5>
+                        <p class="card-subtitle text-warning text-center"><b class="abeer_color">@product.Category.Type</b></p>
+                    </div>
+                    <div class="pl-1">
+                        <p class="text-dark text-opacity-75 text-center mb-2">
+                            Price: <span>@product.Price KD</span>
+                        </p>
+                    </div>
+                </div>
+                <div class="text-center">
+                    <a asp-action="Details" asp-route-id="@product.Id" class="btn bg-gradient border-0 btnhover">
+                        Details
+                    </a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

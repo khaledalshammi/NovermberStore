@@ -1,0 +1,29 @@
+﻿﻿@{
+    if (ViewData.TryGetValue("ParentLayout", out var parentLayout) && parentLayout != null)
+    {
+        Layout = parentLayout.ToString();
+    }
+    else
+    {
+        Layout = "/Views/Shared/_Layout.cshtml";
+    }
+}
+<br />
+<h1 class="mt-5 mb-3" style="color: black;">Manage your account</h1>
+
+<div>
+    <h2 class="mb-4" style="color: #6f1edc;">Change your account settings</h2>
+    <hr />
+    <div class="row mt-4">
+        <div class="col-md-3">
+            <partial name="_ManageNav" />
+        </div>
+        <div class="col-md-9 mt-4">
+            @RenderBody()
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @RenderSection("Scripts", required: false)
+}

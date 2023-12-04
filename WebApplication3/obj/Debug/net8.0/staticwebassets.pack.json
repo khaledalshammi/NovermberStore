@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication3.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\images\\Logo.jpeg",
+      "PackagePath": "staticwebassets\\images\\Logo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\images\\products\\0a674b16-b7d6-4766-9c24-c073770f051b.png",
+      "PackagePath": "staticwebassets\\images\\products\\0a674b16-b7d6-4766-9c24-c073770f051b.png"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\images\\products\\0fc44785-539f-41f9-824d-91802a84fa00.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\0fc44785-539f-41f9-824d-91802a84fa00.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\images\\products\\1431376b-09b4-44ab-9bd2-bd8127a23237.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1431376b-09b4-44ab-9bd2-bd8127a23237.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\images\\products\\2206c009-24f4-49b1-8219-b8e678f4b6b5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2206c009-24f4-49b1-8219-b8e678f4b6b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\images\\products\\250e0e12-a8b2-4153-b674-87fc95ff5669.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\250e0e12-a8b2-4153-b674-87fc95ff5669.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\images\\products\\309c9808-5b1d-48f6-b16c-3c0a4016d4b8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\309c9808-5b1d-48f6-b16c-3c0a4016d4b8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\images\\products\\44df7d9b-c8f9-4085-a809-c77e1163280b.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\44df7d9b-c8f9-4085-a809-c77e1163280b.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\images\\products\\4d63c3ce-d080-4911-af6e-4ed62a59c23b.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\4d63c3ce-d080-4911-af6e-4ed62a59c23b.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\images\\products\\4ead46a2-c2b5-465a-8c70-e36e23c5a7be.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\4ead46a2-c2b5-465a-8c70-e36e23c5a7be.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\images\\products\\504ce45c-05db-42df-a6bd-fd61c160f99f.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\504ce45c-05db-42df-a6bd-fd61c160f99f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\images\\products\\590c4c8a-a3c6-4659-9c51-2e7b7d3a5353.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\590c4c8a-a3c6-4659-9c51-2e7b7d3a5353.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\images\\products\\5aa23698-906f-4fc1-a619-a04ae85774e0.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\5aa23698-906f-4fc1-a619-a04ae85774e0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\images\\products\\6136be11-408a-4d4f-b6f2-5192f4a3ee95.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\6136be11-408a-4d4f-b6f2-5192f4a3ee95.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\images\\products\\81f109bc-a739-4395-9234-151e93bf5fe1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\81f109bc-a739-4395-9234-151e93bf5fe1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\images\\products\\864f46fe-a3e2-4172-a1e4-574bafc122aa.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\864f46fe-a3e2-4172-a1e4-574bafc122aa.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\images\\products\\8b27143a-27c2-4ef1-ae33-51265b47631d.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\8b27143a-27c2-4ef1-ae33-51265b47631d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\images\\products\\93f7b1d8-bf43-4473-8efc-72d65b25b061.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\93f7b1d8-bf43-4473-8efc-72d65b25b061.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\images\\products\\c5cb9394-71a3-4130-9a3d-3efcf84e9130.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\c5cb9394-71a3-4130-9a3d-3efcf84e9130.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\images\\products\\d2552b2d-f5a4-4476-8a60-c00ba4dfb4d5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\d2552b2d-f5a4-4476-8a60-c00ba4dfb4d5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\khalo\\OneDrive\\سطح المكتب\\NovemberStore2\\WebApplication3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApplication3.props",
+      "PackagePath": "build\\WebApplication3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication3.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApplication3.props",
+      "PackagePath": "buildTransitive\\WebApplication3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

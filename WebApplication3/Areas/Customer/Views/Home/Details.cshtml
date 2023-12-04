@@ -1,0 +1,48 @@
+﻿@model Product
+<link href="node_modules/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+
+<section class="py-5">
+    <div class="container px-4 px-lg-5 my-5">
+        <div class="row gx-4 gx-lg-5 align-items-center">
+            <div class="col-md-6"><img class="card-img-top mb-5 mb-md-0" src="~/@Model.Images" alt="image" /></div>
+            <div class="col-md-6">
+                <div class="small mb-1 text-muted">@Model.Category.Type</div>
+                <h1 class="display-5 fw-bolder">@Model.Type</h1>
+                <div class="fs-5 mb-5">
+                    <span class="abeer_color">@Model.Price KWD</span>
+                </div>
+                <p>@Model.Description</p>
+                <div class="d-flex justify-content-between mt-4">
+                @if (Model.Quantity == 0)
+                {
+                    <div class="alert alert-danger" role="alert">
+                        Out Of Stock Now
+                    </div>
+                }
+                else
+                {       
+                    <p class="abeer_color fw-bold mt-2 mb-0">Qty: @Model.Quantity</p>
+                }
+                @if (Model.Quantity > 0 && User.Identity.IsAuthenticated && !User.IsInRole("Admin") && ViewBag.exists == false)
+                {
+                    <form asp-area="Customer" asp-controller="Cart" asp-action="AddToCart" method="post">
+                        <input hidden name="PID" value="@Model.Id" />
+                        <div class="d-flex">
+                            <button class="btn flex-shrink-0 cart-button" type="submit" style="outline-color: #6f1edc; border: 1px solid #6f1edc;">
+                                <i class="bi-cart-fill me-1"></i>
+                                Add to cart
+                            </button>
+                        </div>
+                    </form>
+                }    
+                @if (ViewBag.exists == true)
+                {
+                    <div class="alert alert-success" role="alert">
+                        Already In Your Cart
+                    </div>
+                }
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

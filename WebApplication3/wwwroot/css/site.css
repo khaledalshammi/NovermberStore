@@ -1,0 +1,56 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 0px;
+}
+
+.abeer_color {
+    color: #6f1edc;
+}
+.cart-button {
+    background-color: white;
+    color: #6f1edc;
+    transition: 0.3s linear;
+}
+.cart-button:hover {
+    background-color: #6f1edc;
+    color: white;
+}
+.darktext{
+    color: black;
+}
+.changehover {
+    color: #6f1edc;
+    outline: 1px solid #6f1edc;
+    transition: 0.3s linear;
+}
+.changehover:hover {
+    color: white;
+    background-color: #6f1edc;
+}
+.btnhover {
+    background-color: #6f1edc;
+    color: white;
+    transition: 0.3s linear;
+}
+.btnhover:hover {
+    opacity: 0.8;
+    color: white;
+}
